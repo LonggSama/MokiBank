@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASM2_AP_Banking", "ConsoleApp1\ASM2_AP_Banking.csproj", "{34698B14-C36E-49E7-A7E6-F709E4025CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34698B14-C36E-49E7-A7E6-F709E4025CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34698B14-C36E-49E7-A7E6-F709E4025CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34698B14-C36E-49E7-A7E6-F709E4025CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34698B14-C36E-49E7-A7E6-F709E4025CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC9EF8E-8492-4895-A7EE-182D3AB5E3CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\obj\Debug\ASM2_AP_Banking.csprojAssemblyReference.cache
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\obj\Debug\ASM2_AP_Banking.csproj.CoreCompileInputs.cache
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\1stPr\OneDrive - Thuyloi University\Assignment\AP\Moki\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
